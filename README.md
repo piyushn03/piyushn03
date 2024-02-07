@@ -10,3 +10,15 @@
   ![](https://komarev.com/ghpvc/?username=crishpy-coffe&label=PROFILE+VIEWS&color=red)
  </div>
 
+## About Me!
+
+👩‍💻 I'm currently working on data analyst.
+
+🧠 I'm currently learning python.
+
+👯‍♀️ I'm looking to collaborate on data analyst.
+
+💬 Ask me about data analyst .
+
+⚡️ Fun Fact-There are About 300+ Coding Languages and I Know Some of them.😉😉
+
