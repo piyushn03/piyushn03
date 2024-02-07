@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aspiring Data Analyst passion for turning information into actionable insights. 📊 Excited to embark on a career in Data Science, armed with a solid foundation in statistical analysis, statistics visualization, and system studying gained through academic tasks. Eager to contribute my analytical capabilities and examine from pro specialists within the field. Open to opportunities that allow me to apply my knowledge and develop as a records professional. Let's connect and explore the opportunities of data-pushed innovation together! 🚀 #DataAnalytics #DataScience #RecentGraduate
 
 <!--
 **piyushn03/piyushn03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
