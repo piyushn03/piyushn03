@@ -30,8 +30,8 @@
 <img src="https://user-images.githubusercontent.com/85267939/147403234-801afc0b-79a9-4b0a-ac80-0caf1986373c.png" alt="css" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/services/office_365.png" alt="MS-Office" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="vertical-align:top; margin:4px">     
-<img src="https://img.shields.io/badge/Adobe%20Ai-330F63?style=for-the-badge&logo=Adobe&logoColor=white" alt="Adobe Photoshop" style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=PYTHON" alt="python"style="vertical-align:top; margin:4px">
+<img src="![Static Badge](https://img.shields.io/badge/photoshop-330F63?style=for-the-badge&logo=adobe)" alt="Adobe Photoshop" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=PYTHON" alt="python"style="vertical-align:top; margin:4px">
 
 </p>
 <br />
