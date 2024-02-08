@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="vertical-align:top; margin:4px">     
 <img src="https://img.shields.io/badge/Adobe%20Ai-330F63?style=for-the-badge&logo=Adobe&logoColor=white" alt="Adobe Photoshop" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"style="vertical-align:top; margin:2px">
 </p>
 <br />
 
