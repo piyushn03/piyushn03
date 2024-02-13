@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/SQL-f7f7f7?style=for-the-badge&logo=MySql" alt="SQL"style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/PowerBI-grey?style=for-the-badge&logo=PowerBi" alt="PowerBI" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau" alt="Tableau" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/R%20Language-f7f7f7?style=for-the-badge&logo=RStudio alt="R Language" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Alteryx-black?style=for-the-badge&logo=Alteryx"alt="Alteryx" style="vertical-align:top; margin:4px">
 
 
 </p>
